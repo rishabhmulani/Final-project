@@ -18,7 +18,7 @@ The probability distribution is a normal distribution which is represented by a 
 This model would be a good representation of reality and a great tool for bitcoin miners and investors!
 
 ## Instructions on how to use the program:
-1. Download and run the script BitVary_v2.py"!
+1. Download and run the script BitVary.py"!
 2. There are 2 options to simulate the data: The current version of our code uses the function "simulation_v2", but you can change this to "simulation_v1" to run the simulation using version 1 
 
 ## Sources Used:
